@@ -1,0 +1,3 @@
+String mConsumerkeys = '3y53kLniWsxlbFn6GEhONvYgGdKRKBlvIooRqwhhKPT2iFNj';
+String mConsumerSecret = 'HyYcgWyBXUSmjmzm6bOrb5FvzAm0a1Z2FiD8hK7aaxeIwOGbNl2KEzeuPupfNwdS';
+String mPassKey = 'bfb279f9aa9bdbcf158e97dd71a467cd2e0c893059b10f78e6b72ada1ed2c919';

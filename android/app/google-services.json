@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "831178674259",
+    "project_id": "urbanfootprint-a3611",
+    "storage_bucket": "urbanfootprint-a3611.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831178674259:android:e739cdd1fb527e721336a6",
+        "android_client_info": {
+          "package_name": "com.example.urbanfootprint"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnraaQNuE998lXuxD6fBtRmvy4yBmvxXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
